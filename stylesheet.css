@@ -1,0 +1,122 @@
+* {
+	box-sizing: border-box;
+}
+
+#container {
+	width: 700px;
+	margin: 0px auto 50px;
+	background-color: white;
+	padding: 0px 30px;
+}
+
+#instagram {
+	display: block;
+	position: fixed;
+	bottom: 0;
+	left: 50%;
+	margin-left: -350px;
+	width: 700px;
+	padding: 0px 30px;
+	background-color: #0072C6;
+	color: white;
+}
+
+.email {
+	display: block;
+	border-radius: 0px;
+	background-color: #7FBA00;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	margin: 10px 0px 10px;
+}
+
+.chapter {
+	display: block;
+	padding: 20px 0px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.separate {
+	border-bottom: 1px dotted black;
+}
+
+.address {
+	font-size: 12px;
+	line-height: 100%;
+	margin: 0px;
+	line-height: 130%;
+}
+
+.company {
+	font-size: 16px;
+	margin: 0px 0px 4px;
+}
+
+.duration {
+	font-size: 12px;
+	margin: 10px 0px 4px;
+}
+
+.title {
+	font-size: 16px;
+	margin: 0px 0px 4px;
+}
+
+.listofthings {
+	font-size: 12px;
+}
+
+.addspaceafter {
+	margin-bottom: 25px;
+}
+
+body {
+	background-color: #D2D2D2;
+	font-family: helvetica;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #00BCF2;
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: #002050;
+}
+
+h1 {
+	font-size: 20px;
+	margin: 0px 0px 20px;
+
+}
+
+h2 {
+	font-size: 12px;
+	font-family: Verdana;
+	margin: 0px 0px 15px;
+	background-color: black;
+	padding: 6px 15px;
+	color: white;
+}
+
+ul {
+	padding-left: 15px;
+	margin: 10px 0px 0px;
+}
+
+li {
+	line-height: 130%;
+}
+
+footer {
+	font-size: 16px;
+}
