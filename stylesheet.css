@@ -22,7 +22,6 @@
 }
 
 .email {
-	display: block;
 	border-radius: 0px;
 	background-color: #7FBA00;
 	border: none;
@@ -44,9 +43,8 @@
 
 .address {
 	font-size: 12px;
-	line-height: 100%;
-	margin: 0px;
-	line-height: 130%;
+	line-height: 140%;
+	margin-top: 20px;
 }
 
 .company {
